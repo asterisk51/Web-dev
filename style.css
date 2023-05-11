@@ -3,5 +3,39 @@
 }*/
 
 h1 {
-	color: blue;
+	color: rebeccapurple;
+	text-align: center;
+	border: 5px solid #B95C7E;
+	border: 5px solid rgba(255, 176, 170, 1.0);
+/*	In rgba- a is opacity which ranges from 0.0 to 1.0*/
 }
+
+p {
+	color: darkred;
+	text-align: center;
+	font-family:  'Noto Serif', serif;
+
+/*In the above fonts we have used google fonts first link it in head	*/
+/*	We can also use font-family: "Times new roman", Georgia;*/
+	
+	line-height: 20px;
+/*	font-style: italic;*/
+
+	font-size: 100%;
+
+
+}
+
+img{
+	float: left;
+}
+body{
+	background-color: #FFBDAA;
+}
+/*A CSS pointer*/
+/*.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}*/
