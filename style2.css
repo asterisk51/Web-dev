@@ -1,0 +1,24 @@
+h2 {
+	color : blue;
+}
+h3 {
+	text-align: center;
+	font-size: 30px;
+}
+/*.box{
+	border: 5px solid #B95C7E;
+	display: inline-block;
+	padding: 5px 5px 5px 5px;
+	/*padding: top right bottom left*/
+	/*Similar can go with margin*/
+	margin: 0px 20px 0px 20px;
+}*/
+
+p{
+	font-size: 20px;
+}
+span{
+	font-size: 2em;
+/* em means it will change font size relatable to paragraph size*/
+/* rem means it will not change the span size relatable to paragraph size */
+}
